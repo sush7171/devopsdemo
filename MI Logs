@@ -1,0 +1,108 @@
+Message-ID: <1409473.1624783977796.JavaMail.pstf@deuxvixl>
+Date: Sun, 27 Jun 2021 10:52:57 +0200 (MEST)
+Mime-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_111077_11946275.1624783977748"
+Content-ID: PeopleSoft-Integration-Broker-Internal-Mime-Message
+PeopleSoft-ToolsRelease: 8.48
+
+------=_Part_111077_11946275.1624783977748
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-ID: IBInfo
+
+<?xml version="1.0"?><IBInfo><ExternalOperationName><![CDATA[urn:tefo2de:RTESIMNotificationService_v01:verifyAvailability]]></ExternalOperationName><HttpSession><SessionID><![CDATA[]]></SessionID></HttpSession><From><Protocol>http</Protocol><ExternalUserName><![CDATA[WS]]></ExternalUserName><ExternalUserPassword>***deleted for security purposes****</ExternalUserPassword><WSA-ReplyTo><![CDATA[urn:U-975]]></WSA-ReplyTo><WSA-MessageID><![CDATA[uuid:0eda5fd2-2935-4f00-9d74-ef08107697cb]]></WSA-MessageID><WSA-To><![CDATA[urn:tefo2de:RTESIMNotificationService_v01:verifyAvailability]]></WSA-To><WSA-Action><![CDATA[urn:tefo2de:RTESIMNotificationService_v01:verifyAvailability]]></WSA-Action><WS-Security><WSTokenType><![CDATA[USRT]]></WSTokenType><WSTokenEncrypted>N</WSTokenEncrypted><WSTokenSigned>N</WSTokenSigned><WSTokenEncryptLevel></WSTokenEncryptLevel></WS-Security><SAML-CertAlias><![CDATA[]]></SAML-CertAlias><SAML-QualifierName><![CDATA[]]></SAML-QualifierName><SAML-Issuer><![CDATA[]]></SAML-Issuer><SAML-SubjectName><![CDATA[]]></SAML-SubjectName><SAML-Signature><![CDATA[]]></SAML-Signature><SAML-TokenData>***deleted for security purposes****</SAML-TokenData></From><ContentSections><ContentSection><ID>ContentSection0</ID><NonRepudiation>N</NonRepudiation><Headers><Content-Type><![CDATA[text/xml; charset=utf-8]]></Content-Type><ECID-Context><![CDATA[1.49af60c6-e183-45ac-87e8-72350ea0ae6e-002e2ed3;kZjE1aEHgVRT9KPMk0CCkEGP3LQUjJCDXHSLVTPEnHDUQHFLgIEU1GDCJOVCmGWQjITOZSPPi4PRnU9PsKUBnVPOi5GUoLQSiHOR2SPOZRQGjOVGjTOSjUPPiKVSpFJK2RLN0ZJOoOTLkKPOoLRKlSODoITT_G]]></ECID-Context><Accept><![CDATA[text/xml, text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2]]></Accept><Cache-Control><![CDATA[no-cache]]></Cache-Control><Connection><![CDATA[keep-alive]]></Connection><Pragma><![CDATA[no-cache]]></Pragma><SOAPAction><![CDATA[urn:tefo2de:RTESIMNotificationService_v01:verifyAvailability]]></SOAPAction><User-Agent><![CDATA[Java/1.8.0_181]]></User-Agent><Host><![CDATA[vdctf.de.pri.o2.com:9990]]></Host><Transfer-Encoding><![CDATA[chunked]]></Transfer-Encoding></Headers></ContentSection></ContentSections><AttachmentSection ResponseAsAttachment="N"></AttachmentSection></IBInfo>
+------=_Part_111077_11946275.1624783977748
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-ID: ContentSection0
+
+<?xml version="1.0"?><urn:verifyAvailability xmlns:urn="urn:tefo2de:RTESIMNotificationService"></urn:verifyAvailability>
+------=_Part_111077_11946275.1624783977748--
+
+----Response
+AsAttachmentMessage-ID: <33141838.1624783977797.JavaMail.pstf@deuxvixl>
+Date: Sun, 27 Jun 2021 10:52:57 +0200 (MEST)
+Mime-Version: 1.0
+Content-Type: multipart/related; boundary="Integration_Server_MIME_Boundary"
+Content-ID: PeopleSoft-Integration-Broker-Internal-Mime-Message
+PeopleSoft-ToolsRelease: 8.48
+
+--Integration_Server_MIME_Boundary
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-ID: IBInfo
+
+<?xml version="1.0"?><IBInfo><Status><StatusCode>20</StatusCode><MsgSet>158</MsgSet><MsgID>45</MsgID><Parameters count="1"><Parm>ANONYMOUS</Parm></Parameters><DefaultMsg>User password failed. (158,45)</DefaultMsg></Status><ContentSections><ContentSection><ID>ContentSection0</ID><NonRepudiation>N</NonRepudiation></ContentSection></ContentSections><WS-Security><WSTokenType><![CDATA[]]></WSTokenType><WSTokenEncrypted></WSTokenEncrypted><WSTokenSigned></WSTokenSigned><WSTokenEncryptLevel></WSTokenEncryptLevel><WSRequestAliasName><![CDATA[]]></WSRequestAliasName></WS-Security><SAML-CertAlias><![CDATA[]]></SAML-CertAlias><SAML-QualifierName><![CDATA[]]></SAML-QualifierName><SAML-Issuer><![CDATA[]]></SAML-Issuer><SAML-SubjectName><![CDATA[]]></SAML-SubjectName><SAML-Signature><![CDATA[]]></SAML-Signature><SAML-TokenData>***deleted for security purposes****</SAML-TokenData><ExternalUserName><![CDATA[]]></ExternalUserName><ExternalUserPassword>***deleted for security purposes****</ExternalUserPassword><AttachmentSection ResponseAsAttachment="N"></AttachmentSection></IBInfo>
+--Integration_Server_MIME_Boundary
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-ID: ContentSection0
+Content-Disposition: inline
+
+User password failed. (158,45)
+--Integration_Server_MIME_Boundary--
+
+
+
+------------------------BCS
+
+Message-ID: <5756265.1624784280246.JavaMail.pstf@deuxvixl>
+Date: Sun, 27 Jun 2021 10:58:00 +0200 (MEST)
+Mime-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_111796_29364430.1624784280094"
+Content-ID: PeopleSoft-Integration-Broker-Internal-Mime-Message
+PeopleSoft-ToolsRelease: 8.48
+
+------=_Part_111796_29364430.1624784280094
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-ID: IBInfo
+
+<?xml version="1.0"?><IBInfo><ExternalOperationName><![CDATA[urn:tefo2de:BCSOrderManagementService_v1:notifyDeviceEnrollmentStatus]]></ExternalOperationName><HttpSession><SessionID><![CDATA[]]></SessionID></HttpSession><From><Protocol>http</Protocol><ExternalUserName><![CDATA[WS]]></ExternalUserName><ExternalUserPassword>***deleted for security purposes****</ExternalUserPassword><WSA-ReplyTo><![CDATA[urn:U-600]]></WSA-ReplyTo><WSA-MessageID><![CDATA[uuid:1e86ba6c-d538-43f6-8375-3e6ee83a07fd]]></WSA-MessageID><WSA-To><![CDATA[urn:tefo2de:BCSOrderManagementService_v1:notifyDeviceEnrollmentStatus]]></WSA-To><WSA-Action><![CDATA[urn:tefo2de:BCSOrderManagementService_v1:notifyDeviceEnrollmentStatus]]></WSA-Action><WS-Security><WSTokenType><![CDATA[USRT]]></WSTokenType><WSTokenEncrypted>N</WSTokenEncrypted><WSTokenSigned>N</WSTokenSigned><WSTokenEncryptLevel></WSTokenEncryptLevel></WS-Security><SAML-CertAlias><![CDATA[]]></SAML-CertAlias><SAML-QualifierName><![CDATA[]]></SAML-QualifierName><SAML-Issuer><![CDATA[]]></SAML-Issuer><SAML-SubjectName><![CDATA[]]></SAML-SubjectName><SAML-Signature><![CDATA[]]></SAML-Signature><SAML-TokenData>***deleted for security purposes****</SAML-TokenData></From><ContentSections><ContentSection><ID>ContentSection0</ID><NonRepudiation>N</NonRepudiation><Headers><Content-Type><![CDATA[text/xml; charset=utf-8]]></Content-Type><ECID-Context><![CDATA[1.b6fce83e-42e3-4698-8971-7036e101ed5e-002d123c;kZjE1aEHgVRT9KPMk0CCkEGP3NPEZNCDXHSLVTPEgJDQQHFLgJCCeGDCJJUHdGWQjITOZSPPi4PRnU9PsKUBnVPOi5GUoLQSiHOR2SPOZRQGjOVGjTOSjUPPiKVSpFJK2RLN0ZJOoOTLkKPOoLRKlSODoITT_G]]></ECID-Context><Accept-Encoding><![CDATA[gzip,deflate]]></Accept-Encoding><Connection><![CDATA[Keep-Alive]]></Connection><SOAPAction><![CDATA[urn:tefo2de:BCSOrderManagementService_v1:notifyDeviceEnrollmentStatus]]></SOAPAction><User-Agent><![CDATA[Apache-HttpClient/4.5.3 (Java/1.8.0_66)]]></User-Agent><Host><![CDATA[vdctf.de.pri.o2.com:9990]]></Host><Accept><![CDATA[text/html, image/gif, image/jpeg, */*; q=.2]]></Accept><Transfer-Encoding><![CDATA[chunked]]></Transfer-Encoding></Headers></ContentSection></ContentSections><AttachmentSection ResponseAsAttachment="N"></AttachmentSection></IBInfo>
+------=_Part_111796_29364430.1624784280094
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-ID: ContentSection0
+
+<?xml version="1.0"?>
+		<BCSNotificationDEPSRequest xmlns="http://www.o2.com/soa/ws/getNotificationDEPSRequest">
+			<orderID>BCS15002896</orderID>
+			<timestamp>2021-06-26T14:36:02</timestamp>
+			<status>Error</status>
+			<comment>Failed event 100004: Apple connector currently not available, cannot handle event 100004</comment>
+		</BCSNotificationDEPSRequest>
+	
+------=_Part_111796_29364430.1624784280094--
+
+----------------Response
+Message-ID: <8129473.1624784280247.JavaMail.pstf@deuxvixl>
+Date: Sun, 27 Jun 2021 10:58:00 +0200 (MEST)
+Mime-Version: 1.0
+Content-Type: multipart/related; boundary="Integration_Server_MIME_Boundary"
+Content-ID: PeopleSoft-Integration-Broker-Internal-Mime-Message
+PeopleSoft-ToolsRelease: 8.48
+
+--Integration_Server_MIME_Boundary
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Content-ID: IBInfo
+
+<?xml version="1.0"?><IBInfo><Status><StatusCode>20</StatusCode><MsgSet>158</MsgSet><MsgID>45</MsgID><Parameters count="1"><Parm>ANONYMOUS</Parm></Parameters><DefaultMsg>User password failed. (158,45)</DefaultMsg></Status><ContentSections><ContentSection><ID>ContentSection0</ID><NonRepudiation>N</NonRepudiation></ContentSection></ContentSections><WS-Security><WSTokenType><![CDATA[]]></WSTokenType><WSTokenEncrypted></WSTokenEncrypted><WSTokenSigned></WSTokenSigned><WSTokenEncryptLevel></WSTokenEncryptLevel><WSRequestAliasName><![CDATA[]]></WSRequestAliasName></WS-Security><SAML-CertAlias><![CDATA[]]></SAML-CertAlias><SAML-QualifierName><![CDATA[]]></SAML-QualifierName><SAML-Issuer><![CDATA[]]></SAML-Issuer><SAML-SubjectName><![CDATA[]]></SAML-SubjectName><SAML-Signature><![CDATA[]]></SAML-Signature><SAML-TokenData>***deleted for security purposes****</SAML-TokenData><ExternalUserName><![CDATA[]]></ExternalUserName><ExternalUserPassword>***deleted for security purposes****</ExternalUserPassword><AttachmentSection ResponseAsAttachment="N"></AttachmentSection></IBInfo>
+--Integration_Server_MIME_Boundary
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Content-ID: ContentSection0
+Content-Disposition: inline
+
+User password failed. (158,45)
+--Integration_Server_MIME_Boundary--
+
+
